@@ -15,5 +15,5 @@ Jet Force Gemini Dual-Stick (DS) is a romhack for Jet Force Gemini aimed at qual
 - Right Stick/C-Buttons, reticle and aim movement
 - D-Pad Left/Right, cycle weapons
 
-## Compatability
+## Compatibility
 JFG-DS is developed on Windows and tested by a solo-dev (me, [TLRomhacks](https://github.com/TLRomHacks)). I exclusively test with Retroarch using the Mupen64Plus-Next core in mind. You are welcome to use other emulators, but I have not tested others and likely will not have the time to do so.

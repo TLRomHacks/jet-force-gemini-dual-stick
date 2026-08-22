@@ -9,7 +9,7 @@ Jet Force Gemini Dual-Stick (DS) is a romhack for Jet Force Gemini aimed at qual
 
 ## Controls
 - A, jump or jetpack boost (hold) if jetpack is unlocked and fueled
-- B, crouch/crawl or jetpack hover (press while airborn) if jetpack is unlocked and fueled
+- B, crouch/crawl or jetpack hover (press while airborne) if jetpack is unlocked and fueled
 - R, enter or exit aiming mode
 - Left Stick/Joystick, player movement
 - Right Stick/C-Buttons, reticle and aim movement

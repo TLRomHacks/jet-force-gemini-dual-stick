@@ -5,7 +5,7 @@ Jet Force Gemini Dual-Stick (DS) is a romhack for Jet Force Gemini aimed at qual
 
 ## Features
 - Modern controller dual stick support with a new control scheme and sensitivity options in the 'Options' -> 'Controls' menu; left stick moves the player, right stick controls aiming (be sure to map your right stick to the c-buttons in Retroarch)
-- Guns and grenades/throwables mapped to the L button; keeps you in the action
+- Grenades/throwables mapped to the L button; keeps you in the action
 - Floyd can use more gun types in the co-op campaign
 - Guns and throwables can be upgraded and will gain new functionality
 - More coming soon!

@@ -9,8 +9,8 @@ Jet Force Gemini Dual-Stick (DS) is a romhack for Jet Force Gemini aimed at qual
 - Floyd can use more gun types in the co-op campaign
 - Guns and throwables can be upgraded and will gain new functionality
 - 4 new, unlockable and configurable, cheat codes
-- Several quality of life features including no longer needing to save all 282 tribals to get the final ship part
-- More coming soon!
+- Several quality of life features including no longer needing to save all 282 tribals to head to the final boss
+- Fast Travel options when revisiting a planet and new rewards for saving all 282 tribals and collecting 282 tribal heads
 
 ## Controls
 - A, jump or jetpack boost (hold) if jetpack is unlocked and fueled
